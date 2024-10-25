@@ -59,7 +59,7 @@ Here are some of the projects I have worked on:
 I’m always open to learning new things and collaborating on exciting projects! Feel free to reach out to me:  
 
 - **Email:** ssylvanus6@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/solomon-sylvanus-55074364/ (link_to_your_linkedin)  
-
+- **LinkedIn:** https://www.linkedin.com/in/solomon-sylvanus-55074364/
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Thank you for visiting my profile! 🚀
