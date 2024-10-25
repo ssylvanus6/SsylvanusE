@@ -9,7 +9,8 @@ Hi there! 👋 I'm Solomon Sylvanus, a passionate cybersecurity enthusiast eager
 ## Table of Contents  
 
 - [About Me](#about-me)  
-- [Skills](#skills)  
+- [Skills](#skills)
+- [certification](#certification)  
 - [Projects](#projects)  
 - [Talks and Writings](#talks-and-writings)  
 - [Get In Touch](#get-in-touch)  
@@ -29,7 +30,11 @@ I'm eager to connect with like-minded individuals and contribute to innovative p
   - Penetration Testing: [Kali Linux, Metasploit, Burp Suite]  
   - Scripting: [PowerShell, Python]  
   - Network Security: [Wireshark, nmap]  
-- **Certifications:** [List any relevant certifications, e.g., "CompTIA Security+, CEH"]  
+- **Certifications:** [List any relevant certifications, e.g., "CompTIA Security+, CEH"]
+
+## Certifications
+- [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/G8D5XSGWK0UT)
+- [Udemy Ethical Hacking](https://www.udemy.com/certificate/UC-286f719d-443c-4683-81f6-aee89a32f045/) 
 
 ## Projects  
 
